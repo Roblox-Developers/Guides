@@ -1,41 +1,47 @@
-**__BEFORE YOU POST:__**
+***BEFORE YOU POST:***
 
-When posting, follow __the format__ and __use the correct channel.__ Otherwise, your post might be removed.
-Remember that the job channels are strictly for job posts. Do not comment on other's posts, and do not negotiate in them. _Do not talk in the job channels.__
+When posting, follow the format, and use the correct channel. Otherwise, your post will be removed.
+Remember that the job channels are strictly for job posts. Do not comment on other's posts, and do not negotiate in them. Do **__NOT__** talk in the job channels.
 
-**CHANNELS:**
-#hiring  - Where you go to hire other people (__with pay__)
-#for-hire - Where you go to get hired (__requesting pay__)
-#selling  - Where you go to sell scripts, models, animations, etc... (must cost something, if it's free then go to #free-stuff )
-#volunteer - Where you go to hire people or to get hired (__without__ requiring pay or giving pay)
+***CHANNELS:***
+<#756621092801609888> - Hire other people
+<#756620959720407141> - Get hired by other people
+<#756621111722246225> - Sell scripts, models, animations, etc... If you are not selling then go to <#700600030721212416>
+<#768370543480143873> - Hire people or get hired to work for free / voluntarily
 
-**PAYMENT:**
-If you **are** offering any type of payment, you should post in #for-hire or #hiring 
-If you're **not** offering any payment at all, then **only** use #volunteer 
+***PAYMENT:***
+If you are offering any type of payment, you should post in <#756621092801609888>
+If you are requesting any type of payment, you should post in <#756620959720407141>
+If you're not offering or requesting any payment at all, then only use <#768370543480143873>
 
-**FORMAT:**
+***FORMAT:***
 ```
-**NAME:**
-**SERVICE/ASSET:**
-**CONTACT:**
-**AVAILABILITY:*
-**PAYMENT:**
-**INFORMATION:**
-```
-**FORMAT EXPLANATION:**
-```
-> **NAME:** (YOUR NAME/PING)
-> **SERVICE/ASSET:** (A COUPLE WORDS DESCRIBING WHAT YOU'RE OFFERING/LOOKING FOR. FOR EXAMPLE, "BUILDING", "SCRIPTING", "RPG"... ETC.)
-> **CONTACT:** (YOUR POSSIBLE FORMS OF CONTACT, DMs, EMAIL, ROBLOX DM... ETC.)
-> **AVAILABILITY:** (OPTIONAL, YOUR TIMEZONE AND/OR TIMES AVAILABLE)
-> **PAYMENT:** (IF APPLICABLE, HOW MUCH YOU'RE LOOKING TO PAY OR ASKING FOR. YOU CAN ALSO SAY IT CAN BE DISCUSSED/NEGOTIATED)
-> **INFORMATION:** (OPTIONAL, BUT STRONGLY RECOMMENDED IF YOU WANT TO HAVE A CHANCE. LET YOUR IMAGINATION FLOW! PUT YOUR PORTFOLIO, NOTES, AND OTHER RELEVANT INFO HERE. TALK ABOUT YOURSELF, YOUR SERVICES, SHOW YOUR EXPERIENCE, TALK ABOUT THE DETAILS, PERSUADE! YOU CAN ATTACH UP TO TWO IMAGES, AND YOU CAN ALSO DROP A LINK TO A MORE EXTENSE PORTFOLIO, SUCH AS A GOOGLE DOC, WEBSITE, OR DEVFORUM POST. ONLY ITALICS ARE PERMITTED. HAVE FUN!)
+**Name:**
+**Service/Asset:**
+**Contact:**
+**Availability:**
+**Payment:**
+
+**Information:-**
+
 ```
 
-END MESSAGE
+***FORMAT EXPLANATION:***
 
-**Side Notes:**
-1) Bolding __is__ required
-2) Do not include extra, made-up sections
-3) If you need to include images, only include 1-2 (this is to prevent flooding)
-4) If copying and pasting from this message, remove the gray quote line
+**Name: __ONLY USE THIS SLOT IF YOU ARE NOT THE ONE HIRING__** Mention whoever is hiring here. **Don't** mention yourself...
+
+**Service/Asset:** A couple of words describing what you're offering/looking for. For example, "Building", "Scripting", "Rpg"... Etc.)
+
+**Contact:** Your possible forms of contact, Discord DMs, Roblox DMs, Email, etc...
+
+**Availability: __[OPTIONAL]__** Your timezone and/or times available
+
+**Payment: __[DON'T USE THIS SLOT IF YOU ARE IN <#768370543480143873>]__** How much you're looking to pay or asking for. You can also say it can be discussed/negotiated
+
+**Information: __[OPTIONAL, BUT STRONGLY RECOMMENDED]__ __[WRITE A PARAGRAPH IN A NEW LINE FOR THIS]__**
+If you want to have a chance. Let your imagination flow! Put your portfolio, notes, and other relevant info here. Talk about yourself, your services, show your experience, talk about the details, persuade! You can attach up to two images, and you can also drop a link to a more extensive portfolio, such as a google doc, website, or Dev Forum post. Have fun!
+
+***Side Notes:***
+1) Bolding is required
+2) Do **NOT** include extra, made-up sections
+3) If you need to include images, only include 1-2. If you need more, post them in an unembedded link by doing this `<https://imgur.com/gallery/yed5Zfk>` (this is to prevent flooding)
