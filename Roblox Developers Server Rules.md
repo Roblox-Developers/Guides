@@ -35,8 +35,7 @@ These rules are still in progress. If a mod or admin asks you to stop doing some
 
 Rules are subject to change without notice. 
 
-break
-break
+
 
 **Webhook version**
 
