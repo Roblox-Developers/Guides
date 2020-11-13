@@ -28,7 +28,7 @@ If you're not offering or requesting any payment at all, then only use <#7683705
 
 ***FORMAT EXPLANATION:***
 
-**Name: __[ONLY USE THIS SLOT IF YOU ARE NOT THE ONE HIRING]__** Mention whoever is hiring here. **Don't** mention yourself...
+**Name: __[ONLY USE THIS SLOT IF YOU ARE NOT THE ONE HIRING]__** Mention whoever is hiring here. Do **NOT** mention yourself...
 
 **Service/Asset:** A couple of words describing what you're offering/looking for. For example, "Building", "Scripting", "Rpg"... Etc.)
 
