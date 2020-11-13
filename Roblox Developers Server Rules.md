@@ -75,3 +75,4 @@ These rules are still in progress. If a mod or admin asks you to stop doing some
 **We cannot do anything about scams,** but if someone is threatening the safety of the server, such as by repeatedly scamming, they will be banned.
 
 Rules are subject to change without notice. 
+=======
