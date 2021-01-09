@@ -16,9 +16,14 @@ Slowmode is enabled in some channels to help with this, but it’s not a perfect
 Exception
 Our #mature-chat channel allows for 16+ material. This is a looser version of chat and should be used whenever you are unsure if your conversation is too NSFW. You may post:
 
-- Characters with partial nudity, such as characters in swimsuits (do not post photos of real people).
-- Suggestive emojis, such as portraits of blushing anime characters.
+- Characters with partial nudity, such as characters in swimsuits.
+  - Do not post photos of real people.
+  - No suggestive pictures of characters that appear to be minors (even if they are canonically very old).
+- Suggestive emojis, such as ahegao.
 - More excessive swearing.
+- More intense violence.
+  - Avoid violence of real people.
+  - Do not post death.
 - Anything that Discord allows that is within a Mature ESRB rating.
 
 :four: **Use channels for their intended use.** Don’t talk in #cool-creations, #deleted-channel, #requesting, #deleted-channel, #deleted-channel. **Do not DM other members for help**, even staff, unless granted permission by that person. Don’t ask for help in #chat, don’t post your epic memes in #new-members.
