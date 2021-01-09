@@ -8,6 +8,12 @@ If you have a problem with another member, try to resolve it via DMs, or open a 
 :two: **No advertising**
 Do not advertise your games or discord servers here, either via DMs or directly in the server. It’s annoying. Doing this will result in a kick or ban.
 
+<!--
+- Sharing games and other such designs when they would not interrupt normal conversation.
+- To add a new channel or expand the tips channel to include resources such as youtube tutorials.
+This would not include sharing games for the purpose of looking for work or investment.
+- no random advertising unless its completely related to conversation and appropriate
+-->
 Exception
 Games and servers are allowed to be posted in #cool-creations, and in the help channels as long as they have something to do with that channel.
 Recommending games to others is allowed, within reason.
@@ -35,19 +41,29 @@ Moderators have the right to warn you if they think you did something wrong. So 
 so don’t break their rules or you will be punished.
 We **cannot** and **do not** enforce **Roblox TOS**. If you have a problem with their services, go to roblox.com/support
 
+<!-- This is not really a rule, more advice -->
 :seven: If you’d like to partner with our server, read the guidelines in #partnership-tickets, and open a ticket from that channel.
 
+<!-- Not a rule, just a warning. Could be merged into the following section. -->
 :eight: We may take down offers or content which are suspicious/immoral/very likely scams, such as robux generators or selling free models.
 
 
+<!-- New members may not know the shorthand "Mod" -->
 # Mods may use their discretion when enforcing rules
+<!-- Don't think we need to say it is in progress. Especially as the first thing. -->
 These rules are still in progress. If a mod or admin asks you to stop doing something, listen to them.
 
+<!-- if a message is inappropriate for a channel, we should be able to delete it without warning. -->
+
 # Scams
+
+<!-- This seems unrelated to this section, it could be its own. -->
 **Tip to help avoid getting scammed:** before you start work, get part of your payment given to you, and the rest after the work is done.
 
+<!-- This insinuates that we want to hear about their scam complaints. I don't. This also assumes we can prove a scam has occured, we could but that is way too much office work for volunteer staff -->
 **We cannot do anything about scams,** but if someone is threatening the safety of the server, such as by repeatedly scamming, they will be banned.
 
+<!-- Do we really change the rules that often. Why not announce it so users don't accidentally break the rules. -->
 Rules are subject to change without notice. 
 
 
