@@ -1,7 +1,7 @@
 # Guides
 A collection of Roblox and Roblox Developers related documents (resources, tutorials and procedures).
 
-## Contributioning
+## Contributions
 Contributions are welcome in the form of issues and pull requests.
 
 1. Consider contributing to an existing issue or pull request if one addresses your proposal.
