@@ -1,0 +1,120 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Roblox Developers Roles",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Where are you from?",
+                "description": ":one: North America\n:two: Europe\n:three: South America\n:four: Asia\n:five: Oceania\n:six: Africa\n:seven: Antarctica",
+                "color": null
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "What would you like to hear about?",
+                "description": ":globe_with_meridians: Developer news\n:movie_camera: Livestreams\n:video_game: Gaming events\n:question: Random weekly questions",
+                "color": null
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Interests",
+                "description": "<:scripting:668453475088334888> Scripting\n<:builder:668468102664814593> Building\n<:modelling:668472042093412362> Modeling\n:man_walking: Animating\n:pencil2: Graphics\n:musical_note: Music\n:robot: Discord Bots\n:globe_with_meridians: Web Development\n<:robux:668463009512816642> Investing",
+                "color": null
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Would you want to work with others?",
+                "color": null,
+                "fields": [
+                  {
+                    "name": ":one: For Hire",
+                    "value": "Looking to work for pay."
+                  },
+                  {
+                    "name": ":two: Hiring",
+                    "value": "Looking to hire workers."
+                  },
+                  {
+                    "name": ":three: Volunteer",
+                    "value": "Looking to work without pay."
+                  }
+                ]
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Here are roles you can earn.",
+                "color": null,
+                "fields": [
+                  {
+                    "name": "Super Developer",
+                    "value": "Awarded to anyone who shows any level of competency in design."
+                  },
+                  {
+                    "name": "Mega Developer",
+                    "value": "Awarded to anyone who shows exceptional ability, above other Super Developers."
+                  },
+                  {
+                    "name": "Roblox God (**hardest to earn**)",
+                    "value": "Awarded to a member who is both well known and shows exceptional ability above everyone else."
+                  },
+                  {
+                    "name": "Dolphin",
+                    "value": "Awarded by <@140163987500302336> to anyone who has a :dolphin: profile picture."
+                  }
+                ]
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
