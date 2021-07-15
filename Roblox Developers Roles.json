@@ -39,9 +39,46 @@
             "content": null,
             "embeds": [
               {
-                "title": "Interests",
+                "title": "What are your interests?",
                 "description": "<:scripting:668453475088334888> Scripting\n<:builder:668468102664814593> Building\n<:modelling:668472042093412362> Modeling\n:man_walking: Animating\n:pencil2: Graphics\n:musical_note: Music\n:robot: Discord Bots\n:globe_with_meridians: Web Development\n<:robux:668463009512816642> Investing",
                 "color": null
+              }
+            ],
+            "username": "Roles",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Do you want to help others?",
+                "description": "These are pingable roles that people can use in the help channels (avoid pinging the same group of people too often).",
+                "color": null,
+                "fields": [
+                  {
+                    "name": ":one: Helper-General",
+                    "value": "For non-specific questions."
+                  },
+                  {
+                    "name": ":two: Helper-Building",
+                    "value": "For map and model design questions."
+                  },
+                  {
+                    "name": ":three: Helper-3D",
+                    "value": "For 3D modeling (such as Blender) questions."
+                  },
+                  {
+                    "name": ":four: Helper-Scripting",
+                    "value": "For scripting and programming related questions."
+                  },
+                  {
+                    "name": ":five: Helper-Advanced-Scripting",
+                    "value": "For more advanced (such as non-Roblox) scripting and programming questions."
+                  }
+                ]
               }
             ],
             "username": "Roles",
