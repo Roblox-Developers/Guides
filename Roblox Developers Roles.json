@@ -135,10 +135,40 @@
                     "value": "Awarded to a member who is both well known and shows exceptional ability above everyone else."
                   },
                   {
+                    "name": "Coding Student",
+                    "value": "Used to access <#888810589428805652>. Ping <@668241375409733652> for it."
+                  },
+                  {
                     "name": "Dolphin",
                     "value": "Awarded by <@140163987500302336> to anyone who has a :dolphin: profile picture."
                   }
                 ]
+              },
+              {
+                "title": "Level Rewards",
+                "description": "You can earn levels by talking in chat.",
+                "color": null,
+                "fields": [
+                  {
+                    "name": "Gamma Dev",
+                    "value": "level 25"
+                  },
+                  {
+                    "name": "Alpha Dev",
+                    "value": "level 15"
+                  },
+                  {
+                    "name": "Theta Dev",
+                    "value": "level 10"
+                  },
+                  {
+                    "name": "Delta Dev",
+                    "value": "level 5"
+                  }
+                ],
+                "footer": {
+                  "text": "To see your level say  `.rank` in <#904489052428992633>."
+                }
               }
             ],
             "username": "Roles",
