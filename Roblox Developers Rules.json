@@ -1,0 +1,88 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Roblox Developers Rules",
+      "messages": [
+        {
+          "data": {
+            "content": "**The bold text is a summary** of each rule. We ask that you use common sense and review these rules further if requested or if you have any questions.",
+            "embeds": [
+              {
+                "color": 5000389,
+                "fields": [
+                  {
+                    "name": ":one: Respect other members",
+                    "value": "This means:\n- No hate speech.\n- No racist comments.\n- No sexist or transphobic comments.\n- Avoid ableism or elitism.\n- No discriminatory language.\nThe Roblox Developers Discord is meant for everyone, no one should ever feel unwelcome here.\n\nIf you have a problem with another member, try to resolve it via a direct message (DM), or open a ticket at <#639890173869555761>. We may occasionally create a thread to discuss disagreements publicly."
+                  },
+                  {
+                    "name": ":two: No excessive swearing",
+                    "value": "Swearing is allowed, as long as it doesn’t break any other rules and is not done too often.\n\nWe do not ban the use of words. Instead, we use context to determine if a rule was broken."
+                  },
+                  {
+                    "name": ":three: No advertising",
+                    "value": "Advertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n*Exceptions*\nYou may post an advertisement in these circumstances:\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members."
+                  },
+                  {
+                    "name": ":four: No spam, age-restricted or annoying content",
+                    "value": "Spam is defined as, posting the same or similar content repeatedly.\nAge-restricted is defined as, anything that would be considered culturally inappropriate or ban-worthy by Discord's standards.\nAnnoying is defined as, anything that would be disruptive to other members or would cause physical discomfort.\n\nWe have systems in place to avoid this, but they are imperfect.\n\n*Exceptions*\nThe <#795488249031557141> channel is meant for content that may be considered inappropriate for younger members.\n- Characters with partial nudity, such as characters in swimsuits (not photos of real people).\n- Suggestive emojis, such as portraits of sexualized characters.\n- More excessive swearing.\n- Anything that Discord allows that is within a Mature ESRB rating.\n\nAnything we consider too excessive, even if it is allowed by these exceptions, may be removed without warning."
+                  },
+                  {
+                    "name": ":five: Use channels for their intended purpose",
+                    "value": "Every channel has a relevant name and may have a topic with further information. Always read the topic before using a channel.\n\nDo not use a DM or mention a member (even staff) as an alternative to using a designated channel unless given permission by them.\n\nIf you have a question about a channel, ask a moderator or administrator."
+                  },
+                  {
+                    "name": ":six: Always listen to staff",
+                    "value": "Moderators may warn you if they believe you did something wrong. Always listen to them, even if what you did was not in the rules. Failure to listen to a moderator may result in further punishment.\n\nIf you believe what you did was not wrong, listen to them anyway, and open a ticket to discuss it in a civilized manner. Mistakes happen, everyone has room to grow."
+                  },
+                  {
+                    "name": ":seven: Discord Terms of Service and Community Guidelines are enforced",
+                    "value": "Always follow Discord's rules. If any of our rules contradict a Discord rule, Discord's rule must take priority.\n\nWe are in no way affiliated with or endorsed by Roblox. We *can not* and *will not* enforce the Roblox Terms of Service here. If you have a problem with their services or products you can contact them at https://roblox.com/support"
+                  }
+                ]
+              },
+              {
+                "color": 15687000,
+                "fields": [
+                  {
+                    "name": "Community safety comes first",
+                    "value": "We will prioritize the safety of our members first. If you threaten our member's livelihood, financial state, or security, you will be removed from the server."
+                  },
+                  {
+                    "name": "Always listen to moderators",
+                    "value": "These rules are non-exhaustive and cannot account for every possible scenario. If a moderator asks you to stop doing something, listen to them.\n\nAdministrators are still moderators and must also be listened to."
+                  },
+                  {
+                    "name": "Rules are subject to change",
+                    "value": "The rules above may change at any time and without prior notice. You are responsible for ensuring you are always complying with them. Ignorance is not an excuse.\n\nWe may post an announcement when the rules have been updated."
+                  },
+                  {
+                    "name": "Failure to comply may result in more severe punishments",
+                    "value": "Generally, we will warn you verbally to stop first. If you continue, you may be:\n\n- Given a more prominent warning that moderators can review in the future.\n- Muted so you are unable to talk in the server for an amount of time.\n- Roles may be taken away.\n- You may be kicked.\n- You may be banned.\n- Reported directly to authorities for further investigation in extreme circumstances or if required by Discord."
+                  },
+                  {
+                    "name": "How to appeal a ban",
+                    "value": "We provide a Discord server to appeal bans. If you have been banned, you can appeal at: https://discord.gg/k9jVfFD\n\nYou cannot appeal on someone else's behalf, this is a voluntary service and we will not guarantee any response times or actions."
+                  }
+                ],
+                "footer": {
+                  "text": "Roblox Developers - Moderation Team",
+                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
+                },
+                "timestamp": "2022-03-05T03:39:00.000Z"
+              }
+            ],
+            "username": "Rules",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": "https://discord.com/channels/489424959270158356/753682979284451368/796282622497521704"
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
