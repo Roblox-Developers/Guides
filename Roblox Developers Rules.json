@@ -63,10 +63,6 @@
                   {
                     "name": "How to appeal a ban",
                     "value": "We provide a Discord server to appeal bans. If you have been banned, you can appeal at: https://discord.gg/k9jVfFD\n\nYou cannot appeal on someone else's behalf, this is a voluntary service and we will not guarantee any response times or actions."
-                  },
-                  {
-                    "name": "Tips to avoid being scammed",
-                    "value": "We provide a service to advertise work (see <#756621141182906401>). With any form of work, there is potential for a scam to occur. If you are requesting or looking for work, here are some tips to avoid being scammed:\n\n*1. Post to https://talent.roblox.com/*\nConsider posting on Roblox's official Talent Hub first and including a link to the job in your job posting here.\nAs an unofficial Roblox Discord server, we lack the tools necessary to protect members against Roblox-related scams. By performing transactions through the official Talent Hub, Roblox may be able to provide additional protections.\n*2. Ask for partial payment*\nConsider asking for partial payment before starting and the full amount once the work is done.\n*3. Keep the work in writing*\nConsider writing a service contract. A service contract is an agreement outlining what exactly will and will not be included in the work. This helps to avoid misunderstandings and establish what needs to be done."
                   }
                 ],
                 "footer": {
@@ -79,7 +75,7 @@
             "username": "Rules",
             "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
           },
-          "reference": "https://discord.com/channels/489424959270158356/950154100094418974/950154342562930710"
+          "reference": "https://discord.com/channels/489424959270158356/753682979284451368/796282622497521704"
         }
       ],
       "targets": [
