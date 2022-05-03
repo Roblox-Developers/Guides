@@ -1,0 +1,144 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Roblox Developers Market",
+      "messages": [
+        {
+          "data": {
+            "content": "Please read the following before creating a post. Failure to do so may result in your post being declined (repeated failure will result in you being banned from the Market).",
+            "embeds": [
+              {
+                "title": "Rules",
+                "color": 5000389,
+                "fields": [
+                  {
+                    "name": "Do not use annoying formatting",
+                    "value": "Avoid using formatting that may be considered excessive, annoying or painful. Making a post that stands out is encouraged, annoying users is not.\n\n- DO use SNAKE CASE, \\*\\***bold**\\*\\* \\**italicized*\\*, \\_\\___underlined__\\_\\_ and emoji characters sparingly.\n- DO use formal spelling and grammar in your post.\n\n- DO NOT use formatting for most or all of your post.\n- DO NOT break grammar rules as part of your formatting.\n\nIf you try and make everything stand out, nothing will."
+                  },
+                  {
+                    "name": "Do not include personal information",
+                    "value": "Your identity is not necessary when selling, hiring or showing your availability. Do not include any information which could be used to personally identify you, including:\n\n- Your home or mobile phone number.\n- Your non-business email address.\n- Links to private social media accounts."
+                  },
+                  {
+                    "name": "We do not allow selling the following",
+                    "value": "- Accounts\n- Communities or groups"
+                  },
+                  {
+                    "name": "Include a currency type",
+                    "value": "If you accept or sell using a real-world currency, you must include what type of currency it is. Using a dollar or pound sign is not enough.\n\nFor example, The United States uses USD, Canada uses CAD and Britain uses GPB."
+                  },
+                  {
+                    "name": "Include a payment method",
+                    "value": "If you accept a real-world currency, a payment method must be specified (recommended for Robux amounts)."
+                  },
+                  {
+                    "name": "Include a single work unit",
+                    "value": "A post must contain one but should not contain multiple products or services. Avoid trying to fill multiple positions or sell multiple products within a single post.\n\n- A post is not a replacement for a proper online portfolio.\n- Hiring posts should contain enough information for members to determine if they have the required skills.\n- Selling posts should be focused on a single product."
+                  },
+                  {
+                    "name": "Resales must be disclosed",
+                    "value": "When reselling a product that was previously sold or given away, you must have explicit permission to do so and must mention the source of the product."
+                  },
+                  {
+                    "name": "Do not ping staff about the status of your post",
+                    "value": "You may ask staff to review your post, you may not mention or reply to a staff message to get them to review your post."
+                  }
+                ]
+              },
+              {
+                "title": "Getting Started",
+                "color": 4300903,
+                "fields": [
+                  {
+                    "name": "1. Request a post",
+                    "value": "You can request a post by saying `!post` in <#639874483301384223>. The RDB bot will send you a direct message."
+                  },
+                  {
+                    "name": "2. Answer each question",
+                    "value": "Answer each question to the best of your ability in full."
+                  },
+                  {
+                    "name": "3. Wait for review",
+                    "value": "A staff member will review your post as soon as possible. Please have patience, your post may take a few days to get approved."
+                  },
+                  {
+                    "name": "4.a. If your post was accepted",
+                    "value": "Your post will appear in the appropriate channel below.\n\n- Consider showing your availability by getting a role: https://discord.com/channels/489424959270158356/829282612233109517/865331239803551744\n- Make sure members can contact you.\n- Keep using the server to communicate with developers."
+                  },
+                  {
+                    "name": "4.b. If your post is declined",
+                    "value": "You may request a new post. Do not resubmit the same post. A staff member will provide a reason your post was declined in <#888283790592602122>."
+                  }
+                ]
+              },
+              {
+                "title": "Recommendations",
+                "description": "How to report a scam",
+                "color": 15687000,
+                "fields": [
+                  {
+                    "name": "Use spellcheck",
+                    "value": "Discord, along with many web browsers and word processors support spellcheck. Before posting anything, look for the red underline for recommended corrections (think carefully, spellcheck can make mistakes)."
+                  },
+                  {
+                    "name": "Prefer too much information",
+                    "value": "A member should be able to tell that a post is applicable to them without needing to ask for any more information."
+                  },
+                  {
+                    "name": "Sell yourself",
+                    "value": "The goal of any post is to get someone to take action. Always provide something of value in return."
+                  },
+                  {
+                    "name": "Include links",
+                    "value": "If you have an online portfolio or social media accounts (for development, not a personal account), you should include these in your post to showcase your previous works and related skills."
+                  },
+                  {
+                    "name": "Report scams",
+                    "value": "You may open a ticket to report a scam (contact Roblox or your payment processor as well, if applicable). Although we cannot help you recover damages when a scam occurs, we can take note of scams and may ban them from the server if their repeated actions cause them to be a danger to the community."
+                  }
+                ]
+              },
+              {
+                "title": "Tips to avoid being scammed",
+                "description": "With any form of work, there is potential for a scam to occur. If you are requesting or looking for work, here are some tips to avoid being scammed:",
+                "color": 15687000,
+                "fields": [
+                  {
+                    "name": "1. Post to https://talent.roblox.com/",
+                    "value": "Consider posting on Roblox's official Talent Hub first and including a link to the job in your job posting here.\nAs an unofficial Roblox Discord server, we lack the tools necessary to protect members against Roblox-related scams. By performing transactions through the official Talent Hub, Roblox may be able to provide additional protections."
+                  },
+                  {
+                    "name": "2. Ask for partial payment",
+                    "value": "Consider asking for partial payment before starting and the full amount once the work is done."
+                  },
+                  {
+                    "name": "3. Keep the work in writing",
+                    "value": "Consider writing a service contract. A service contract is an agreement outlining what exactly will and will not be included in the work. This helps to avoid misunderstandings and establish what needs to be done."
+                  },
+                  {
+                    "name": "4. Look up previous work",
+                    "value": "Consider viewing their social media posts, past projects and asking other developers to see how they conduct business, how capable they are and if they are telling the truth."
+                  }
+                ],
+                "footer": {
+                  "text": "Roblox Developers - Moderation Team",
+                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
+                },
+                "timestamp": "2022-03-14T01:57:00.000Z"
+              }
+            ],
+            "username": "Market Information",
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+          },
+          "reference": "https://discord.com/channels/489424959270158356/952440773356441600/952441031905919026"
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
