@@ -1,0 +1,44 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Manual Post",
+      "messages": [
+        {
+          "data": {
+            "content": "<@USERID>",
+            "embeds": [
+              {
+                "title": "CHANNEL",
+                "description": "DESCRIPTION",
+                "color": 5814783,
+                "fields": [
+                  {
+                    "name": "Payment",
+                    "value": "**Real Money: **AMOUNT\n**Robux: **AMOUNT"
+                  },
+                  {
+                    "name": "Contact",
+                    "value": "Discord: <@USERID>"
+                  }
+                ],
+                "footer": {
+                  "text": "UserID: USERID| Approved by YOURNAME"
+                }
+              }
+            ],
+            "username": "RDB (manual post)",
+            "avatar_url": "https://cdn.discordapp.com/avatars/949427877403852910/cdfbc86e2e6969bac82979f72e1ee723.png?size=4096",
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
