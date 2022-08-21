@@ -15,7 +15,8 @@
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331236023828530"
         },
@@ -30,7 +31,8 @@
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331236842242068"
         },
@@ -45,7 +47,8 @@
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331237673762837"
         },
@@ -86,7 +89,8 @@
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331238864420875"
         },
@@ -109,12 +113,17 @@
                   {
                     "name": ":three: Volunteer",
                     "value": "Looking to work without pay."
+                  },
+                  {
+                    "name": ":four: Not for Hire",
+                    "value": "Let others know you are not available."
                   }
                 ]
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331239803551744"
         },
@@ -176,7 +185,8 @@
               }
             ],
             "username": "Roles",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
+            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png",
+            "attachments": []
           },
           "reference": "https://discord.com/channels/489424959270158356/829282612233109517/865331244794380389"
         }
