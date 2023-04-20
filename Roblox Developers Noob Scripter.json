@@ -1,0 +1,42 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Roblox Developers Noob Scripter",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Roblox Developers is not designed to teach scripting. Here are a few resources to help get you started:",
+                "color": 6601681
+              },
+              {
+                "title": "TUTORIALS",
+                "description": "• Programming in Lua - https://www.lua.org/pil/1.html\n• How to Code (almost) Any Feature - https://www.youtube.com/watch?v=h1o5UzKfZcQ\n• Tutorialspoint - https://www.tutorialspoint.com/lua/index.htm\n• Roblox Hub - https://developer.roblox.com/en-us/learn-roblox/all-tutorials\n• Roblox Community Tutorials - https://devforum.roblox.com/c/resources/community-tutorials/46\n• Roblox Step-by-step guide - https://developer.roblox.com/en-us/onboarding\n• Beginner's guide - <#891006498103255050>\n• Roblox API reference - https://robloxapi.github.io/ref/\n• Getting started with Luau - https://luau-lang.org/getting-started",
+                "color": 6601681
+              },
+              {
+                "title": "MANUALS",
+                "description": "• Lua 5.1 (manual) - https://www.lua.org/manual/5.1/\n• Roblox API Dump (manual) - https://developer.roblox.com/en-us/api-reference\n• Roblox Lua Style Guide (manual) - https://roblox.github.io/lua-style-guide/",
+                "color": 6601681,
+                "footer": {
+                  "text": "embeds made by Solarite#3267 (dont give me attention)",
+                  "icon_url": "https://i1.sndcdn.com/avatars-d2S4V3ZNc04RX8kb-dlrQrg-t500x500.jpg"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
