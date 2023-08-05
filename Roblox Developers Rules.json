@@ -2,91 +2,18 @@
   "version": 7,
   "backups": [
     {
-      "name": "Roblox Developers Rules",
-      "messages": [
+      "content": null,
+      "embeds": [
         {
-          "data": {
-            "content": "**The bold text is a summary** of each rule. We ask that you use common sense and review these rules further if requested or if you have any questions.",
-            "embeds": [
-              {
-                "color": 5000389,
-                "fields": [
-                  {
-                    "name": ":one: Respect other members",
-                    "value": "This means:\n- No hate speech.\n- No racist comments.\n- No sexist or transphobic comments.\n- Avoid ableism or elitism.\n- No discriminatory language.\nThe Roblox Developers Discord is meant for everyone, no one should ever feel unwelcome here.\n\nIf you have a problem with another member, try to resolve it via a direct message (DM), or open a ticket at <#639890173869555761>. We may occasionally create a thread to discuss disagreements publicly."
-                  },
-                  {
-                    "name": ":two: No excessive swearing",
-                    "value": "Swearing is allowed, as long as it doesn’t break any other rules and is not done too often.\n\nWe do not ban the use of words. Instead, we use context to determine if a rule was broken."
-                  },
-                  {
-                    "name": ":three: No advertising",
-                    "value": "Advertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n*Exceptions*\nYou may post an advertisement in these circumstances:\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members.\n\nThis includes advertising in members' direct messages using our server."
-                  },
-                  {
-                    "name": ":four: No spam, age-restricted or annoying content",
-                    "value": "Spam is defined as, posting the same or similar content repeatedly.\nAge-restricted is defined as, anything that would be considered culturally inappropriate or ban-worthy by Discord's standards.\nAnnoying is defined as, anything that would be disruptive to other members or would cause physical discomfort.\n\nWe have systems in place to avoid this, but they are imperfect."
-                  },
-                  {
-                    "name": ":five: Use channels for their intended purpose",
-                    "value": "Every channel has a relevant name and may have a topic with further information. Always read the topic before using a channel.\n\nDo not use a DM or mention a member (even staff) as an alternative to using a designated channel unless given permission by them.\n\nIf you have a question about a channel, ask a moderator or administrator."
-                  },
-                  {
-                    "name": ":six: Always listen to staff",
-                    "value": "Moderators may warn you if they believe you did something wrong. Always listen to them, even if what you did was not in the rules. Failure to listen to a moderator may result in further punishment.\n\nIf you believe what you did was not wrong, listen to them anyway, and open a ticket to discuss it in a civilized manner. Mistakes happen, everyone has room to grow."
-                  },
-                  {
-                    "name": ":seven: Discord Terms of Service and Community Guidelines are enforced",
-                    "value": "Always follow Discord's rules. If any of our rules contradict a Discord rule, Discord's rule must take priority.\n\nWe are in no way affiliated with or endorsed by Roblox. We *can not* and *will not* enforce the Roblox Terms of Service here. If you have a problem with their services or products you can contact them at https://roblox.com/support"
-                  },
-                  {
-                    "name": ":eight: Do not glorify the use of drugs, and do not depict the use of drugs",
-                    "value": "Based on Roblox Developers' main audience, drug use can be very influential and harmful. For this reason, you may not screenshare, camera share, or share images/gifs/videos of drug use and/or consumption."
-                  }
-                ]
-              },
-              {
-                "color": 15687000,
-                "fields": [
-                  {
-                    "name": "Community safety comes first",
-                    "value": "We will prioritize the safety of our members first. If you threaten our member's livelihood, financial state, or security, you will be removed from the server."
-                  },
-                  {
-                    "name": "Always listen to moderators",
-                    "value": "These rules are non-exhaustive and cannot account for every possible scenario. If a moderator asks you to stop doing something, listen to them.\n\nAdministrators are still moderators and must also be listened to."
-                  },
-                  {
-                    "name": "Rules are subject to change",
-                    "value": "The rules above may change at any time and without prior notice. You are responsible for ensuring you are always complying with them. Ignorance is not an excuse.\n\nWe may post an announcement when the rules have been updated."
-                  },
-                  {
-                    "name": "Failure to comply may result in more severe punishments",
-                    "value": "Generally, we will warn you verbally to stop first. If you continue, you may be:\n\n- Given a more prominent warning that moderators can review in the future.\n- Muted so you are unable to talk in the server for an amount of time.\n- Roles may be taken away.\n- You may be kicked.\n- You may be banned.\n- Reported directly to authorities for further investigation in extreme circumstances or if required by Discord."
-                  },
-                  {
-                    "name": "How to appeal a ban",
-                    "value": "We provide a Discord server to appeal bans. If you have been banned, you can appeal at: https://discord.gg/k9jVfFD\n\nYou cannot appeal on someone else's behalf, this is a voluntary service and we will not guarantee any response times or actions."
-                  }
-                ],
-                "footer": {
-                  "text": "Roblox Developers - Moderation Team",
-                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
-                },
-                "timestamp": "2022-03-05T03:39:00.000Z"
-              }
-            ],
-            "username": "Rules",
-            "avatar_url": "https://cdn.discordapp.com/attachments/639845182686232581/849793385501294622/RBXDevLogo.png"
-          },
-          "reference": "https://discord.com/channels/489424959270158356/753682979284451368/796282622497521704"
+          "description": "**Text in bold is summary** of each rule\nWe ask that you use common sense, this is not an exhaustive list of rules, if you believe it's not allowed then it probably isn't. Feel free to message a staff member if you have an questions.\n\n**__Rule 1:__ Follow Discord ToS (https://discord.com/terms/)**\nAlways follow Discord rules, Discord rules will always take priority.\nPlease do not joke about ToS violations such as age, we **WILL** take you seriously, and we **WILL** act.\n\n__We are not affiliated with Roblox, we *can not* and *will not* enforce Roblox ToS. If you would like to contact them go to https://roblox.com/support. __\n\n**__Rule 2:__ Always respect your fellow members**\nRoblox Developers is meant to be a safe and inclusive space for all people, no matter what.\nDo not be generally rude to people, or intentionally cause problems.\n\nIf you have a problem with another member, try to resolve it via a direct message (DM), or open a ticket at <#639890173869555761>. We may occasionally create a thread to discuss disagreements publicly.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 3:__ No discriminatory behavior**\nDiscriminating against a user, spreading hate, etc is **NOT** tolerated here.\nThis includes:\n- No hate speech.\n- No racist comments.\n- No sexist or transphobic comments.\n- Avoid ableism or elitism.\n- No discriminatory language.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 4:__ No age-restricted, annoying, or spammy content**\nAge-restricted content consists of content that is not suitable for a younger audience, such as NSFW content, overly suggestive content, gore, and more.\nAnnoying content is loud content that is meant to agitate people, content that cannot be stopped normally, bright or obnixious content.\nSpam is something that is content that is sent repetitively.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 5:__ Do not show, or depict the use of any illicit substence**\nRoblox Developers' consists mainly of users under the age of 18. Children are impressionable, and do not need to see glorified drug usage. For this reason, you may not screenshare, camera share, or share images/gifs/videos of drug use and/or consumption.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 6:__ Do not spam your mic, use loud soundboards and voice changers**\nThis is extremely annoying for members, and forbidden in voice channels.\nThis includes anything that would purposefully disrupt anyone's experience in voice channels.\n\nWe may server mute you, or in extreme cases ban you from using voice channels altogether.\n\n**__Rule 7:__ Do not advertise**\nAdvertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n*Exceptions*\nYou may post an advertisement in these circumstances:\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members.\n\n__This includes advertising in members' direct messages using our server.__\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 8:__ English only**\nRoblox Developers is an English only server, please do not speak any other languages, or you may face punishment.\n\nRoblox Developers' staff cannot moderate in other languages, so the use of them is forbidden.",
+          "color": 5117695,
+          "author": {
+            "name": "Roblox Developers' Rules",
+            "icon_url": "https://images-ext-2.discordapp.net/external/R4zvVRs69kDLI6YTnGyFIkGYyVH3JpR_P1Dmt08MUVs/%3Fsize%3D4096/https/cdn.discordapp.com/icons/489424959270158356/a_d17a9260ea8ad5cf3005f01648478444.gif?width=140&height=140"
+          }
         }
       ],
-      "targets": [
-        {
-          "url": ""
-        }
-      ]
+      "attachments": []
     }
   ]
 }
