@@ -2,15 +2,50 @@
   "version": 7,
   "backups": [
     {
-      "content": null,
+      "content": "Text in **bold** are brief summaries.",
       "embeds": [
         {
-          "description": "**Text in bold is summary** of each rule\nWe ask that you use common sense, this is not an exhaustive list of rules, if you believe it's not allowed then it probably isn't. Feel free to message a staff member if you have an questions.\n\n**__Rule 1:__ Follow Discord ToS (https://discord.com/terms/)**\nAlways follow Discord rules, Discord rules will always take priority.\nPlease do not joke about ToS violations such as age, we **WILL** take you seriously, and we **WILL** act.\n\n__We are not affiliated with Roblox, we *can not* and *will not* enforce Roblox ToS. If you would like to contact them go to https://roblox.com/support. __\n\n**__Rule 2:__ Always respect your fellow members**\nRoblox Developers is meant to be a safe and inclusive space for all people, no matter what.\nDo not be generally rude to people, or intentionally cause problems.\n\nIf you have a problem with another member, try to resolve it via a direct message (DM), or open a ticket at <#639890173869555761>. We may occasionally create a thread to discuss disagreements publicly.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 3:__ No discriminatory behavior**\nDiscriminating against a user, spreading hate, etc is **NOT** tolerated here.\nThis includes:\n- No hate speech.\n- No racist comments.\n- No sexist or transphobic comments.\n- Avoid ableism or elitism.\n- No discriminatory language.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 4:__ No age-restricted, annoying, or spammy content**\nAge-restricted content consists of content that is not suitable for a younger audience, such as NSFW content, overly suggestive content, gore, and more.\nAnnoying content is loud content that is meant to agitate people, content that cannot be stopped normally, bright or obnixious content.\nSpam is something that is content that is sent repetitively.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 5:__ Do not show, or depict the use of any illicit substence**\nRoblox Developers' consists mainly of users under the age of 18. Children are impressionable, and do not need to see glorified drug usage. For this reason, you may not screenshare, camera share, or share images/gifs/videos of drug use and/or consumption.\n\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 6:__ Do not spam your mic, use loud soundboards and voice changers**\nThis is extremely annoying for members, and forbidden in voice channels.\nThis includes anything that would purposefully disrupt anyone's experience in voice channels.\n\nWe may server mute you, or in extreme cases ban you from using voice channels altogether.\n\n**__Rule 7:__ Do not advertise**\nAdvertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n*Exceptions*\nYou may post an advertisement in these circumstances:\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members.\n\n__This includes advertising in members' direct messages using our server.__\n__This includes your username, profile picture, status, about me and banner.__\n\n**__Rule 8:__ English only**\nRoblox Developers is an English only server, please do not speak any other languages, or you may face punishment.\n\nRoblox Developers' staff cannot moderate in other languages, so the use of them is forbidden.",
-          "color": 5117695,
+          "description": "Please use __common sense__, this is **NOT** and exhaustive list of rules, and they are subject to change at any time.\nStaff reserve the right to punish for reasons not explicity listed here, if you would like to appeal a punishment you may open a ticket [here](https://discord.com/channels/489424959270158356/639890173869555761).\n\n__If you have any questions, do not hesitate to DM a staff member.__\nㅤ",
+          "color": 5476863,
+          "fields": [
+            {
+              "name": "1️⃣ Follow Discord ToS (https://discord.com/terms)",
+              "value": "Always follow Discord Terms of Service, and as a Discord server we have an obligation to uphold these rules.\n\nWe are not affiliated with Roblox, we *can not* and *will not* uphold Roblox ToS. You may always contact roblox at https://roblox.com/support.\n\n:warning: **Please do not joke about breaking ToS, we will take you seriously**"
+            },
+            {
+              "name": "2️⃣ Always respect your fellow members",
+              "value": "Roblox Developers is a welcoming community for those of any skill level, and we want to keep it that way.\n__This means:__\n- No hate speech of any kind (racism, sexism, homophobia, transphobia, ablism, etc)\n- No being rude to people, especially in #help\n- Inflammatory messages, usernames/nicknames, and profiles (Ex. political and religious nicknames)\nNo one should ever feel unwelcome here. We aren't banning constructive discussions of political/religious topics, we just want to reduce the number of arguments.\n\nIf you are having issues with a member, you may always open a ticket https://discord.com/channels/489424959270158356/639890173869555761, please refrain from arguing in public spaces, take it somewhere else (DMs)."
+            },
+            {
+              "name": "3️⃣ Do not glorify the use of drugs or any illicit substance",
+              "value": "Roblox Developers' main audience is those under the age of 18, because of this we do not allow the consumption of drugs or illicit substances in VCs, text channels, or any media. We do not allow the promotion or glorification of drugs."
+            },
+            {
+              "name": "4️⃣ No excessive swearing or vulgarity",
+              "value": "Swearing and being vulgure is allowed, as long as it doesn't violate any of our rules, however please refrain from overusing swear words or being overly sexual.\nNo one wants to be in a server that's constantly talking about something inappropriate.\n\nFurthermore, please refrain from direct swear words at anyone, it's disrespectful."
+            },
+            {
+              "name": "5️⃣ No NSFW or annoying content, or spam of any kind",
+              "value": "Spamming the same message, video, gif, image, etc is annoying to other members.\n\nNSFW content is any content that is sexually explicit or suggestive, violent or culturally inappropriate. Content includes messages, images, videos, gifs, etc.\n\nAnnoying content is defined as content that is excessively loud, flashy/bright and disruptive to the flow of chat."
+            },
+            {
+              "name": "6️⃣ Please use channels for their intended purposes",
+              "value": "Every channel has a relevant name, and description if you need more information.\nFor example, the help channels are for asking or assisting people with questions, it is not a space for memes, general chatting or being rude to people.\n\nPlease do not DM staff members to post in a channel for you, or ask for permissions. If you have any questions do not hesitate to DM a staff member/"
+            },
+            {
+              "name": "7️⃣ Do not advertise",
+              "value": "Advertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n__Exceptions:__\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members.\n\nThis includes advertising in members' direct messages using our server."
+            }
+          ],
           "author": {
-            "name": "Roblox Developers' Rules",
-            "icon_url": "https://images-ext-2.discordapp.net/external/R4zvVRs69kDLI6YTnGyFIkGYyVH3JpR_P1Dmt08MUVs/%3Fsize%3D4096/https/cdn.discordapp.com/icons/489424959270158356/a_d17a9260ea8ad5cf3005f01648478444.gif?width=140&height=140"
-          }
+            "name": "Want to request a change? (Click me)",
+            "url": "https://github.com/Roblox-Developers/Guides/issues/new"
+          },
+          "footer": {
+            "text": "Last Updated",
+            "icon_url": "https://images-ext-1.discordapp.net/external/9PAZmyBPXii7vobCMDItr9jmGsGdFzSYe8fJ3fyJrKA/https/upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
+          },
+          "timestamp": "2023-09-25T21:51:00.000Z"
         }
       ],
       "attachments": []
