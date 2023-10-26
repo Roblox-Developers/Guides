@@ -5,12 +5,12 @@
       "content": "Text in **bold** are brief summaries.",
       "embeds": [
         {
-          "description": "Please use __common sense__, this is **NOT** and exhaustive list of rules, and they are subject to change at any time.\nStaff reserve the right to punish for reasons not explicity listed here, if you would like to appeal a punishment you may open a ticket [here](https://discord.com/channels/489424959270158356/639890173869555761).\n\n__If you have any questions, do not hesitate to DM a staff member.__\nㅤ",
+          "description": "Please use common sense, this is **NOT** and exhaustive list of rules, and they are subject to change at any time.\nStaff reserve the right to punish for reasons not explicity listed here, if you believe you have been falsely punished, you may open a ticket to appeal [here](https://discord.com/channels/489424959270158356/639890173869555761).\n\nIf you have any questions, do not hesitate to DM a staff member.\nㅤ",
           "color": 5476863,
           "fields": [
             {
               "name": "1️⃣ Always respect your fellow members",
-              "value": "Roblox Developers is a welcoming community for those of any skill level, and we want to keep it that way.\n__This means:__\n- No being rude to people, especially in #help\n- Inflammatory messages, usernames/nicknames, and profiles (Ex. political and religious nicknames)\nNo one should ever feel unwelcome here. We aren't banning constructive discussions of political/religious topics, we just want to reduce the number of arguments.\n\nIf you are having issues with a member, you may always open a ticket https://discord.com/channels/489424959270158356/639890173869555761, please refrain from arguing in public spaces, take it somewhere else (DMs)."
+              "value": "Roblox Developers is a welcoming community for those of backround, race, gender and skill level.\n__This means:__\n- No being rude to people, especially in #help\n- No Inflammatory messages, usernames/nicknames, and profiles (Ex. political and religious nicknames)\nNo one should ever feel unwelcome here. Please avoid conversations involving religion or politics. Feel free to use DMs or threads if you wish to discuss these topics in a peaceful and constructive manner.\n\nIf you are having issues with a member, you may always open a ticket https://discord.com/channels/489424959270158356/639890173869555761, please refrain from arguing in public spaces, take it somewhere else (DMs)."
             },
             {
               "name": "2️⃣ No discrimination of any kind",
@@ -18,7 +18,7 @@
             },
             {
               "name": "3️⃣ Follow Discord ToS (https://discord.com/terms)",
-              "value": "Always follow Discord Terms of Service, and as a Discord server we have an obligation to uphold these rules.\n\nWe are not affiliated with Roblox, we *can not* and *will not* uphold Roblox ToS. You may always contact roblox at https://roblox.com/support.\n\n:warning: **Please do not joke about breaking ToS, we will take you seriously**"
+              "value": "We are obligated to uphold the Discord Terms of Service, if you wish to report someone for violating Discord ToS you may open a ticket here [here](https://discord.com/channels/489424959270158356/639890173869555761)\n\nWe are not affiliated with Roblox, we *can not* and *will not* uphold Roblox ToS. You may always contact roblox at https://roblox.com/support.\n\n:warning: **Please do not joke about breaking ToS, we will take you seriously**"
             },
             {
               "name": "4️⃣ No excessive swearing or vulgarity",
@@ -26,7 +26,7 @@
             },
             {
               "name": "5️⃣ No NSFW or annoying content, or spam of any kind",
-              "value": "Spamming the same message, video, gif, image, etc is annoying to other members.\n\nNSFW content is any content that is sexually explicit or suggestive, violent or culturally inappropriate. Content includes messages, images, videos, gifs, etc. Roblox Developers' main audience are minors, so any content be it messages, media, or anything in voice channels that is sexual or innapropriate in nature is disallowed.\n__This includes, but is not limited to:__\n- Sex/sexual innuendos\n- Drugs/alcohol (Any glorifying of drugs/alcohol, showing in any media, etc)\n- Mild swearing is allowed, but anything deemed inappropriate will be moderated\n**The above is not an exhaustive list**\n\nAnnoying content is defined as content that is excessively loud, flashy/bright and disruptive to the flow of chat."
+              "value": "Spamming the same message, video, gif, image, etc is annoying to other members.\n\nNSFW content is any content that is sexually explicit or suggestive, violent or culturally inappropriate. Content includes messages, images, videos, gifs, etc. Roblox Developers' main audience are minors, so any content be it messages, media, or anything in voice channels that is sexual or innapropriate in nature is disallowed.\n__This includes, but is not limited to:__\n- Sex/sexual innuendos\n- Drugs/alcohol (Any glorifying of drugs/alcohol, showing in any media, **in voice channels**, etc)\n- Mild swearing is allowed, but anything deemed inappropriate will be moderated\n**The above is not an exhaustive list**\n\nAnnoying content is defined as content that is excessively loud, flashy/bright and disruptive to the flow of chat."
             },
             {
               "name": "6️⃣ Please use channels for their intended purposes",
@@ -50,6 +50,36 @@
             "icon_url": "https://images-ext-1.discordapp.net/external/9PAZmyBPXii7vobCMDItr9jmGsGdFzSYe8fJ3fyJrKA/https/upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
           },
           "timestamp": "2023-10-25T21:51:00.000Z"
+        },
+        {
+          "color": 15687000,
+          "fields": [
+            {
+              "name": "Community safety comes first",
+              "value": "We will prioritize the safety of our members first. If you threaten our member's livelihood, financial state, or security, you will be removed from the server."
+            },
+            {
+              "name": "Always listen to moderators",
+              "value": "These rules are non-exhaustive and cannot account for every possible scenario. If a moderator asks you to stop doing something, listen to them.\n\nAdministrators are still moderators and must also be listened to."
+            },
+            {
+              "name": "Rules are subject to change",
+              "value": "The rules above may change at any time and without prior notice. You are responsible for ensuring you are always complying with them. Ignorance is not an excuse.\n\nWe may post an announcement when the rules have been updated."
+            },
+            {
+              "name": "Failure to comply may result in more severe punishments",
+              "value": "Generally, we will warn you verbally to stop first. If you continue, you may be:\n\n- Given a more prominent warning that moderators can review in the future.\n- Muted so you are unable to talk in the server for an amount of time.\n- Roles may be taken away.\n- You may be kicked.\n- You may be banned.\n- Reported directly to authorities for further investigation in extreme circumstances or if required by Discord."
+            },
+            {
+              "name": "How to appeal a ban",
+              "value": "We provide a Discord server to appeal bans. If you have been banned, you can appeal at: https://discord.gg/k9jVfFD\n\nYou cannot appeal on someone else's behalf, this is a voluntary service and we will not guarantee any response times or actions."
+            }
+          ],
+          "footer": {
+            "text": "Roblox Developers - Moderation Team",
+            "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
+          },
+          "timestamp": "2023-10-26T22:53:00.000Z"
         }
       ],
       "attachments": []
