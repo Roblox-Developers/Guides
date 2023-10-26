@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "backups": [
     {
       "content": "Text in **bold** are brief summaries.",
@@ -9,16 +9,16 @@
           "color": 5476863,
           "fields": [
             {
-              "name": "1️⃣ Follow Discord ToS (https://discord.com/terms)",
+              "name": "1️⃣ Always respect your fellow members",
+              "value": "Roblox Developers is a welcoming community for those of any skill level, and we want to keep it that way.\n__This means:__\n- No being rude to people, especially in #help\n- Inflammatory messages, usernames/nicknames, and profiles (Ex. political and religious nicknames)\nNo one should ever feel unwelcome here. We aren't banning constructive discussions of political/religious topics, we just want to reduce the number of arguments.\n\nIf you are having issues with a member, you may always open a ticket https://discord.com/channels/489424959270158356/639890173869555761, please refrain from arguing in public spaces, take it somewhere else (DMs)."
+            },
+            {
+              "name": "2️⃣ No discrimination of any kind",
+              "value": "__This means:__\n- No hate speech of any kind (racism, sexism, homophobia, transphobia, ablism, etc)\nRoblox Developers is an inclusive space for all, and any kind of bigotry is completely forbidden.\n\n**This includes:** messages, media, usernames/nicknames, and in voice chats."
+            },
+            {
+              "name": "3️⃣ Follow Discord ToS (https://discord.com/terms)",
               "value": "Always follow Discord Terms of Service, and as a Discord server we have an obligation to uphold these rules.\n\nWe are not affiliated with Roblox, we *can not* and *will not* uphold Roblox ToS. You may always contact roblox at https://roblox.com/support.\n\n:warning: **Please do not joke about breaking ToS, we will take you seriously**"
-            },
-            {
-              "name": "2️⃣ Always respect your fellow members",
-              "value": "Roblox Developers is a welcoming community for those of any skill level, and we want to keep it that way.\n__This means:__\n- No hate speech of any kind (racism, sexism, homophobia, transphobia, ablism, etc)\n- No being rude to people, especially in #help\n- Inflammatory messages, usernames/nicknames, and profiles (Ex. political and religious nicknames)\nNo one should ever feel unwelcome here. We aren't banning constructive discussions of political/religious topics, we just want to reduce the number of arguments.\n\nIf you are having issues with a member, you may always open a ticket https://discord.com/channels/489424959270158356/639890173869555761, please refrain from arguing in public spaces, take it somewhere else (DMs)."
-            },
-            {
-              "name": "3️⃣ Do not glorify the use of drugs or any illicit substance",
-              "value": "Roblox Developers' main audience is those under the age of 18, because of this we do not allow the consumption of drugs or illicit substances in VCs, text channels, or any media. We do not allow the promotion or glorification of drugs."
             },
             {
               "name": "4️⃣ No excessive swearing or vulgarity",
@@ -26,7 +26,7 @@
             },
             {
               "name": "5️⃣ No NSFW or annoying content, or spam of any kind",
-              "value": "Spamming the same message, video, gif, image, etc is annoying to other members.\n\nNSFW content is any content that is sexually explicit or suggestive, violent or culturally inappropriate. Content includes messages, images, videos, gifs, etc.\n\nAnnoying content is defined as content that is excessively loud, flashy/bright and disruptive to the flow of chat."
+              "value": "Spamming the same message, video, gif, image, etc is annoying to other members.\n\nNSFW content is any content that is sexually explicit or suggestive, violent or culturally inappropriate. Content includes messages, images, videos, gifs, etc. Roblox Developers' main audience are minors, so any content be it messages, media, or anything in voice channels that is sexual or innapropriate in nature is disallowed.\n__This includes, but is not limited to:__\n- Sex/sexual innuendos\n- Drugs/alcohol (Any glorifying of drugs/alcohol, showing in any media, etc)\n- Mild swearing is allowed, but anything deemed inappropriate will be moderated\n**The above is not an exhaustive list**\n\nAnnoying content is defined as content that is excessively loud, flashy/bright and disruptive to the flow of chat."
             },
             {
               "name": "6️⃣ Please use channels for their intended purposes",
@@ -35,6 +35,10 @@
             {
               "name": "7️⃣ Do not advertise",
               "value": "Advertising here is defined as, the act of mentioning something in an attempt to get someone else to use or reserve it.\n\n__Exceptions:__\n- The channel topic allows it.\n- It is directly related to and in response to a conversation.\n- It does not directly or indirectly benefit you, would not be disruptive, and would be beneficial to a majority of members.\n\nThis includes advertising in members' direct messages using our server."
+            },
+            {
+              "name": "8️⃣ Do not loop-hole rules",
+              "value": "Do not try to loop-hole the rules, this is __NOT__ and exhaustive list, use common sense.\nRules are subject to change at any time, and staff will moderate at their discretion.\n\nIf you believe you have been falsely punished, please open a ticket and calmly explain your situation."
             }
           ],
           "author": {
@@ -45,7 +49,7 @@
             "text": "Last Updated",
             "icon_url": "https://images-ext-1.discordapp.net/external/9PAZmyBPXii7vobCMDItr9jmGsGdFzSYe8fJ3fyJrKA/https/upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROBLOX_Studio_icon.png/300px-ROBLOX_Studio_icon.png"
           },
-          "timestamp": "2023-09-25T21:51:00.000Z"
+          "timestamp": "2023-10-25T21:51:00.000Z"
         }
       ],
       "attachments": []
