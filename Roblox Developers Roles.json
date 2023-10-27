@@ -132,56 +132,58 @@
             "content": null,
             "embeds": [
               {
-                "title": "Here are roles you can earn.",
-                "color": null,
-                "fields": [
+                "content": null,
+                "embeds": [
                   {
-                    "name": "Super Developer",
-                    "value": "Awarded to anyone who shows any level of competency in design."
+                    "title": "Earnable Roles",
+                    "color": null,
+                    "fields": [
+                      {
+                        "name": "<:super_dev:1004085860611915937> Super Developer",
+                        "value": "Awarded to anyone who shows any level of competency in design."
+                      },
+                      {
+                        "name": "<:ultra_dev:1138666385015328809> Ultra Developer",
+                        "value": "This is a step up from Super Developer, it shows you are a somewhat skilled in what you do."
+                      },
+                      {
+                        "name": "<:mega_dev:1138666356099780758> Mega Developer",
+                        "value": "Awarded to anyone who shows exceptional ability, above other Super & Ultra Developers."
+                      },
+                      {
+                        "name": "<:EternalDev:1163261532096958495> Eternal Developer (hardest to earn)",
+                        "value": "Awarded to members who have shown exceptional ability, more than most. And are well know members of the community."
+                      },
+                      {
+                        "name": "<:booster:1163259328678072370> Booster",
+                        "value": "Awarded to people who boost the server,\n- Instant access to https://discord.com/channels/489424959270158356/752143170229370961 and https://discord.com/channels/489424959270158356/1061865964985139320\n- 2x Boosters get access to `bb role`"
+                      }
+                    ]
                   },
                   {
-                    "name": "Mega Developer",
-                    "value": "Awarded to anyone who shows exceptional ability, above other Super Developers."
-                  },
-                  {
-                    "name": "Roblox God (**hardest to earn**)",
-                    "value": "Awarded to a member who is both well known and shows exceptional ability above everyone else."
-                  },
-                  {
-                    "name": "Coding Student",
-                    "value": "Used to access <#888810589428805652>. Ping <@668241375409733652> for it."
-                  },
-                  {
-                    "name": "Dolphin",
-                    "value": "Awarded by <@140163987500302336> to anyone who has a :dolphin: profile picture."
-                  }
-                ]
-              },
-              {
-                "title": "Level Rewards",
-                "description": "You can earn levels by talking in chat.",
-                "color": null,
-                "fields": [
-                  {
-                    "name": "Gamma Dev",
-                    "value": "level 25"
-                  },
-                  {
-                    "name": "Alpha Dev",
-                    "value": "level 15"
-                  },
-                  {
-                    "name": "Theta Dev",
-                    "value": "level 10"
-                  },
-                  {
-                    "name": "Delta Dev",
-                    "value": "level 5"
+                    "title": "Level Rewards",
+                    "color": null,
+                    "fields": [
+                      {
+                        "name": "Gamma Dev",
+                        "value": "Awarded to members who hit level 25"
+                      },
+                      {
+                        "name": "Alpha Dev",
+                        "value": "Awarded to members who hit level 15\n- Access to nicknames\n- Access to post in https://discord.com/channels/489424959270158356/904902872200781905"
+                      },
+                      {
+                        "name": "Theta Dev",
+                        "value": "Awarded to members who hit level 10\n- Access to post in https://discord.com/channels/489424959270158356/700600030721212416"
+                      },
+                      {
+                        "name": "Delta Dev",
+                        "value": "Awarded to members who hit level 5\n- Gain access to post pictures around the server\n- Gain access to leaving reactions around the server\n- Gain access to https://discord.com/channels/489424959270158356/1086863227457118218\n- Gain access to post in https://discord.com/channels/489424959270158356/1127809502981398589"
+                      }
+                    ]
                   }
                 ],
-                "footer": {
-                  "text": "To see your level say  `.rank` in <#904489052428992633>."
-                }
+                "attachments": []
               }
             ],
             "username": "Roles",
