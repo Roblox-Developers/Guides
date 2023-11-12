@@ -39,6 +39,10 @@
             {
               "name": "8️⃣ Do not loop-hole rules",
               "value": "Do not try to loop-hole the rules, this is __NOT__ and exhaustive list, use common sense.\nRules are subject to change at any time, and staff will moderate at their discretion.\n\nIf you believe you have been falsely punished, please open a ticket and calmly explain your situation."
+            },
+            {
+              "name": "9️⃣ Use English only",
+              "value": "Roblox Developers is an English only server, we are unable to moderate other languages."
             }
           ],
           "author": {
